@@ -1,0 +1,49 @@
+* {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 25px;
+    margin-top: 25px;
+    width: 1000px;
+    text-align: justify;
+}
+
+h1 {
+    color: red;
+    font-size: 25px;
+}
+
+.colorRed {
+    color: red;
+    text-decoration: underline;
+}
+
+.colorBlueLigh {
+    color: royalblue;
+}
+
+.colorBlue {
+    color: rgb(12, 12, 173);
+    font-weight: 600;
+}
+
+.Bold {
+    font-weight: 600;
+}
+
+.backgroundAndColor {
+    color: darkgoldenrod;
+    background: black;
+}
+
+.SecondParra {
+    color: rgb(106, 106, 129);
+}
+
+p {
+    font-size: 20px;
+}
+
+.ThirsParra {
+    color: rgb(106, 106, 129);
+}
+
